@@ -1,11 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
----
 layout: default
-title: About
+title: Home
 ---
-# About page
 
-This page tells you a little bit about me.
+This page tells you a little bit about me. Test
