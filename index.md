@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: Home
 ---
+# About me
 
-This page tells you a little bit about me. Test
+After a phD in fundamental physics at the universite de Sherbrooke under the supervision of
+[Andre-Marie Tremblay](https://www.physique.usherbrooke.ca/pages/tremblay)

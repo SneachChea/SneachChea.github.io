@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: Resume
-  link: /CV.html
 - name: Blog
   link: /blog.html
+- name: Resume
+  link: /CV.html
