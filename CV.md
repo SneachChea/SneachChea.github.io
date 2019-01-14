@@ -8,11 +8,11 @@ A french (and detailled) version is available [here]({{ site.url }}/assets/files
 
 ### PhD Physics:
 
-> 2015--2018   , Université de Sherbrooke, Quebec, Canada  
+> 2015 - 2018   , Université de Sherbrooke, Quebec, Canada  
 > **Subject:** Effect of electronic correlations and magnetic field on Weyl semimetals.  
 
 ### MSc physics
-> 2014-2015, Ecole normale supérieure, Paris, France  
+> 2014 - 2015, Ecole normale supérieure, Paris, France  
 > The International Centre for Fundamental Physics Master degree
 > Condensed matter program
 
@@ -25,7 +25,7 @@ A french (and detailled) version is available [here]({{ site.url }}/assets/files
 
 ### BSc in Physics
 
-> 2008- 2010, Université Paris-Sud XI, Paris, France,  
+> 2008 - 2010, Université Paris-Sud XI, Paris, France,  
 > Major in Physics, minors in Mathematics and informatics
 
 
@@ -50,5 +50,5 @@ A french (and detailled) version is available [here]({{ site.url }}/assets/files
 
 ## Awards and distinctions
 
-> -BMO excellence grant (2017)  
+> - BMO excellence grant (2017)  
 > - 2014 research internship prize (Prix du stage de recherche)

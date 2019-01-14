@@ -11,7 +11,8 @@ Ma soutenance de thèse a eu lieu le 19 décembre 2018. Le fonctionnement des so
 * une privée en compagnie du jury de thèse où l'étudiant présente en vingt minutes les résultats sayants du doctorat suivie d'une séance de questions-réponses de plusieurs heures.
 * une publique, ouverte à tous et qui doit être la plus accéssible possible.
 
-Le titre de ma thèse est: *** Effets des corrélations électroniques et du champ magnétique dans les semi-métaux de Weyl.***
+Le titre de ma thèse est: ** Effets des corrélations électroniques et du champ magnétique dans les semi-métaux de Weyl.**  
+
 Les semi-métaux de Weyl étant des objets aux propriétés topologiques interessantes, l'intérêt premier de mon travail réside dans une meilleure compréhension de cette phase dans des matériaux fortement corrélés (comme par exemple [Mn3Sn](https://www.nature.com/articles/nmat4987)). Pour y aboutir, j'ai fait le choix d'étudier le modèle d'Hubbard sur un modèle de semi-métal de Weyl sur réseau. Pour résoudre ce problème, le choix de la [théorie du champ moyen dynamique](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.68.13) est apparu pertinent et cela sur deux points important:
 * Cette méthode fonctionne exactement dans la limite des dimensions spatiales infinies et donc, _a fortiori_ pour les matériaux de dimension trois.
 * J'ai apporté la preuve de son application pour la prise en compte l'effet orbital induit par un champ magnétique externe. Cette preuve ouvre la voie à l'étude de [l'anomalie chirale](https://en.wikipedia.org/wiki/Chiral_anomaly) dans les semi-métaux de Weyl corrélés.
