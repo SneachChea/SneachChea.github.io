@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Soutenance de these!"
+title:  "Soutenance de thèse"
 date:   2019-01-03 09:20:54 -0500
 categories: studies
 ---
-# Soutenance de thèse
 
 _Since my thesis and my thesis defense are in french, this post is also in french. In advance, sorry..._
 
@@ -21,4 +20,4 @@ Pour mener à bien ma recherche, je me suis appuyé sur les programmes de Reza N
 
 La vidéo ci-dessous est la soutenance publique. Je me suis inspiré du cours de [Jean Dalibard au college de France](https://www.college-de-france.fr/site/jean-dalibard/course-2017-2018.htm) pour l'introduction à la topologie. Le lien vers la thèse sera disponible dès que le dépot final sera effectué.
 
-<iframe width="420" height="315" src="https://youtu.be/Dbc1Ik99FK4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dbc1Ik99FK4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
