@@ -8,7 +8,6 @@ title: Home
   <img src="./assets/img/profile.jpeg" />
 </p>
 
-![Me and myself](./img/profile.jpeg){: .center-image}
 
 After an engineering school ([Ecole polytechnique](https://www.polytechnique.edu), France) and a phD in fundamental physics at the université de Sherbrooke under the supervision of
 [Andre-Marie Tremblay](https://www.physique.usherbrooke.ca/pages/tremblay), I am now looking for new opportunities outside the academic world.
