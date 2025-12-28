@@ -1,6 +1,5 @@
-- name: Home
-  link: /
-- name: Blog
-  link: /blog.html
-- name: Resume
-  link: /CV.html
+main:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
