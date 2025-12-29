@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Soutenance de thèse [FRENCH]"
 date:   2019-01-03 09:20:54 -0500
 categories: studies
