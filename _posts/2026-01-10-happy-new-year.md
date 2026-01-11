@@ -21,7 +21,12 @@ Worse still, our governments are also starting to attack our privacy on the inte
 
 The second problem is that if the law passes without issue, the technical solution to ensure the majority of visitors to adult films has been left to the discretion of private companies. Imagine what will happen when these companies fall victim to a data breach or a cyberattack. In addition to leaking identity proofs, digital ransoms will become much more effective. But, hey, they will keep your [data safe](https://www.lepoint.fr/societe/agego-le-systeme-de-verification-de-l-age-pour-les-sites-pornos-pointe-du-doigt-06-09-2025-2597922_23.php), right ?
 
+> _I am not saying that we shouldn't fight against the scourge of minors accessing pornography. On the contrary, I believe that the way our governments are combating this in an [insufficiante](https://www.politico.eu/article/sites-pornographiques-six-mois-plus-tard-les-mineurs-reussissent-a-contourner-le-controle-de-lage/) and counterproductive way. In my humble opinion, just as with drug consumption, protecting minors from pornographic content requires complementing coercive methods with more prevention._
+
 Finally, ChatControl, a Danish initiative in the European Parliament to protect minors from pedocriminality, wanted to end end-to-end encryption and have our messages and images read by artificial intelligence. If content is flagged as suspicious, humans will verify it. Without being a computer genius, one can imagine that the number of false positives (i.e., content classified as problematic but isn't) will be very high, rendering the proposal ineffective. The only consequence will be the end of secure messaging and a new way to weaken our defenses against tomorrow's authoritarian regimes. I let you check this [website](https://fightchatcontrol.eu/) that explain better than me the possible consequences of ChatControl.
+
+> _We need to fight against the pedocriminality very **hard**, but we should also keep our fundamental rights protected._
+
 
 Before receiving targeted ads about my romantic misadventures or potential chronic illnesses, I decided to take the lead. Here's how I'm de-Googling my digital life:
 
