@@ -54,7 +54,7 @@ permalink: /projects/
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 15px;
-} 
+}
 
 .tag {
   background-color: #f0f0f0;
@@ -93,6 +93,21 @@ Below are some of the projects I've worked on:
       <span class="tag">Machine Learning</span>
     </div>
     <a href="https://github.com/SneachChea/footix" class="project-link">View on GitHub →</a>
+  </div>
+
+  <!-- GraKelX -->
+  <div class="project-card">
+    <img class="project-thumbnail" src="/imgs/projects/logo_grakelx.png" alt="GraKelX logo" loading="lazy">
+    <div class="project-title">GraKelX</div>
+    <div class="project-description">
+      A modern fork of GraKeL — a scikit-learn compatible Python library for graph kernels, with ongoing maintenance and new features.
+    </div>
+    <div class="project-tags">
+      <span class="tag">Python</span>
+      <span class="tag">Graph Kernels</span>
+      <span class="tag">Machine Learning</span>
+    </div>
+    <a href="https://github.com/SneachChea/GraKelX" class="project-link">View on GitHub →</a>
   </div>
 
 {% comment %}
